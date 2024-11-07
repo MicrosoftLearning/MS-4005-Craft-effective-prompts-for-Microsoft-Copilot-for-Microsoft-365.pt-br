@@ -1,0 +1,1 @@
+# MS-4005-Craft-effective-prompts-for-Microsoft-Copilot-for-Microsoft-365.pt-br
