@@ -15,7 +15,7 @@ Você pode transformar rapidamente um intervalo de células em uma tabela do Exc
 
 1. Selecione  **OK**.
 
-![Captura de tela do painel do Copilot no Excel na primeira abertura.](../media/copilot-pane-Excel.png)
+![Captura de tela do painel do Copilot no Excel na primeira abertura.](../media/copilot-pane-excel.png)
 
 ## Vamos começar a criar
 
@@ -30,7 +30,7 @@ Abra a planilha no Excel e, em seguida, abra o painel do **Copilot** selecionand
 
 Neste prompt simples, você começa com o **objetivo** básico: _analisar uma tabela do Excel._ No entanto, não há informações sobre por que a tabela precisa ser resumida ou para que o resumo é necessário.
 
-| Element | Exemplo |
+| Elemento | Exemplo |
 | :------ | :------- |
 | Prompt básico: <br>Comece com um **objetivo** | **Analise esta tabela no Excel.** |
 | Prompt bom: <br>Adicione **contexto** | Adicionar **contexto** pode ajudar o Copilot a entender o objetivo da análise e ajustar a resposta de acordo.<br><br>"_Estamos procurando os produtos mais vendidos de maio a agosto para informar nossa estratégia de marketing para o próximo ano._" |
@@ -46,7 +46,7 @@ Neste prompt simples, você começa com o **objetivo** básico: _analisar uma ta
 
 Esse prompt fornece ao Copilot tudo o que ele precisa para encontrar uma boa resposta, incluindo o **Objetivo**, o **Contexto**, a **Fonte** e as **Expectativas**.
 
-## Explore mais
+## Explorar mais
 
 Experimente o prompt final criado e outros com sua própria tabela do Excel. Aqui estão algumas sugestões para outros prompts que você pode querer experimentar. Copie-os e adicione **Contexto**, **Fontes** e **Expectativas**.  
 
