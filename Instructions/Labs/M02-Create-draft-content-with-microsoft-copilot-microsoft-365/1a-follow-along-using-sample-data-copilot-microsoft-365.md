@@ -15,6 +15,9 @@ Siga as etapas abaixo para carregar todos os arquivos necessários no **OneDrive
 3. Na barra de endereços, insira `https://www.office.com` .
 4. Em **Bem-vindo ao Microsoft 365**, selecione **Entrar**.
 5. Na **solicitação de logon**, insira `userx@yourtenant.onmicrosoft.com` (nome de usuário e locatário fornecidos pelo provedor de locatário) e selecione **Avançar**.
+
+    [![Captura de tela do painel de recursos no Skillable](../media/lab_resources_password.png)](../media/lab_resources_password.png#lightbox)
+    
 6. Na tela **Inserir senha**, insira a senha (fornecida pelo provedor de locatário) para a conta de usuário e selecione **Entrar**.
 7. Se solicitado a **Permanecer conectado**, selecione **Não mostrar isso novamente** e, em seguida, **Sim**.
 8. No **Microsoft 365**, selecione **Aplicativos**.
