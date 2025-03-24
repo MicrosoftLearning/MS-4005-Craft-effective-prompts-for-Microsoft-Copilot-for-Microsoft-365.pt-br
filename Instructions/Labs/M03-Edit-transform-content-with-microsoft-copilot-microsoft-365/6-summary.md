@@ -1,11 +1,12 @@
+# Resumo
 
 Neste módulo, você aprendeu sobre o Microsoft 365 Copilot e seus recursos transformadores nos aplicativos do Microsoft 365, como:
 
-- O Copilot no Word pode reescrever seu texto e transformá-lo em uma tabela editável. 
+- O Copilot no Word pode reescrever seu texto e transformá-lo em uma tabela editável.
 
-- O Copilot no PowerPoint pode ajudar a adicionar slides à sua apresentação e aprimorá-los com imagens. 
+- O Copilot no PowerPoint pode ajudar a adicionar slides à sua apresentação e aprimorá-los com imagens.
 
-- O Copilot no Excel permite que os usuários destaquem, classifiquem e filtrem tabelas para se concentrar em informações importantes. 
+- O Copilot no Excel permite que os usuários destaquem, classifiquem e filtrem tabelas para se concentrar em informações importantes.
 
 - O Copilot no Outlook fornece sugestões para melhorar o tom, a clareza e o sentimento do leitor de seus emails com o Treinamento do Copilot.
 

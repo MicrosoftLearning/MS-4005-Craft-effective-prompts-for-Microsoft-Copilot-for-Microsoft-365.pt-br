@@ -1,3 +1,4 @@
+# Introdução
 
 Neste módulo, você aprenderá a criar prompts contextuais e eficazes no Microsoft 365 Copilot para **resumir** informações em aplicativos do Microsoft 365. Se quiser aprimorar suas habilidades de criação de prompts para o Copilot, este módulo equipará você com o conhecimento e as técnicas para criar prompts que produzirão resultados precisos e úteis com o Microsoft 365 Copilot.
 

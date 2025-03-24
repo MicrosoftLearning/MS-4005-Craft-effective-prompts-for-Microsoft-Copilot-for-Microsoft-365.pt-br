@@ -1,6 +1,8 @@
+# Introdução
+
 Neste módulo, você aprenderá a criar prompts contextuais e eficazes no Microsoft 365 Copilot para **criar** informações em aplicativos do Microsoft 365. Se quiser aprimorar suas habilidades de criação de prompts para o Copilot, este módulo equipará você com o conhecimento e as técnicas para criar prompts que produzirão resultados precisos e úteis com o Microsoft 365 Copilot.
 
-O foco deste módulo é **elaborar**, **criar** e **construir** informações usando aplicativos do Microsoft 365 Copilot, como **Word**, **PowerPoint**, **Teams**, **Outlook** e outros. Você aprenderá a usar esses recursos básicos de criação, mas também a criar um prompt eficiente que contenha todos os elementos para gerar os resultados desejados.
+O foco deste módulo é **elaborar**, **criar** e **construir** informações usando o Microsoft 365 Copilot em diferentes Microsoft 365 Apps, como **Word**, **PowerPoint**, **Teams**, **Outlook**, entre outros. Você aprenderá a usar esses recursos básicos de criação, mas também a criar um prompt eficiente que contenha todos os elementos para gerar os resultados desejados.
 
 > [!IMPORTANT]
 > Muitos dos recursos do Copilot abordados neste módulo estão disponíveis apenas para clientes com uma licença do Microsoft 365 Copilot ou do Copilot Pro. No entanto, as estratégias empregadas para criar melhores prompts podem ser usadas com qualquer LLM (grande modelo de linguagem grande) baseado em bate-papo.

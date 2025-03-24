@@ -1,11 +1,17 @@
+# Identifique tendências e visualize dados com o Copilot no Excel
 
-O Microsoft 365 Copilot no Excel ajuda você a fazer mais com seus dados em tabelas do Excel, gerando sugestões de colunas de fórmulas, mostrando insights em gráficos e Tabelas Dinâmicas e destacando partes interessantes de dados. 
+O Microsoft 365 Copilot no Excel ajuda você a fazer mais com seus dados em tabelas do Excel, gerando sugestões de colunas de fórmulas, mostrando insights em gráficos e Tabelas Dinâmicas e destacando partes interessantes de dados.
 
-No Excel, selecione **Copilot** na faixa de opções para abrir o painel de chat. Você precisa ter uma **tabela do Excel** que inclua dados em uma planilha antes de usar o Copilot. 
+No Excel, selecione **Copilot** na faixa de opções para abrir o painel de chat.
 
-![Captura de tela do ícone do Copilot na faixa de opções do Excel.](../media/copilot-ribbon-excel.png)
+![Captura de tela do ícone do Copilot na faixa de opções do Excel.](../media/summarize_copilot-ribbon-excel.png)
 
-Você pode transformar rapidamente um intervalo de células em uma tabela do Excel seguindo estas etapas: 
+Para usar o Copilot no Excel, seus dados precisarão ser formatados de uma das seguintes maneiras:
+
+- Como uma tabela do Excel
+- Como um intervalo de suporte
+
+Você pode criar uma tabela ou converter um intervalo de células em uma tabela se tiver um intervalo de dados seguindo estas etapas:
 
 1. Selecione a célula ou o intervalo nos dados.
 
@@ -15,7 +21,20 @@ Você pode transformar rapidamente um intervalo de células em uma tabela do Exc
 
 1. Selecione  **OK**.
 
-![Captura de tela do painel do Copilot no Excel na primeira abertura.](../media/copilot-pane-excel.png)
+Se você preferir manter seus dados em um intervalo e não convertê-los em uma tabela, eles precisarão atender a todos os seguintes requisitos:
+
+- Apenas uma linha de cabeçalho
+- Os cabeçalhos estão apenas em colunas, não em linhas
+- Os cabeçalhos são exclusivos; sem cabeçalhos duplicados
+- Sem cabeçalhos em branco
+- Os dados são formatados de forma consistente
+- Sem subtotais
+- Sem linhas ou colunas vazias
+- Sem células mescladas
+
+No exemplo a seguir, começamos com uma solicitação básica para analisar uma tabela e progressivamente adicionar elementos para tornar o prompt mais robusto.
+
+![Captura de tela do painel do Copilot no Excel na primeira abertura.](../media/summarize_copilot-pane-excel.png)
 
 ## Vamos começar a criar
 
@@ -32,17 +51,15 @@ Neste prompt simples, você começa com o **objetivo** básico: _analisar uma ta
 
 | Elemento | Exemplo |
 | :------ | :------- |
-| Prompt básico: <br>Comece com um **objetivo** | **Analise esta tabela no Excel.** |
-| Prompt bom: <br>Adicione **contexto** | Adicionar **contexto** pode ajudar o Copilot a entender o objetivo da análise e ajustar a resposta de acordo.<br><br>"_Estamos procurando os produtos mais vendidos de maio a agosto para informar nossa estratégia de marketing para o próximo ano._" |
-| Prompt melhor: <br>Especificar **fonte(s)** | Adicionar **fontes** pode ajudar o Copilot a restringir o escopo, dizendo-lhe para usar informações ou intervalos específicos.<br><br>"_...de maio a agosto..._" |
-| O melhor prompt: <br>Defina **expectativas claras** | Por fim, adicionar **Expectativas** pode ajudar o Copilot a entender como formatar o resumo e qual nível de detalhe é necessário.<br><br>"_Destaque o produto mais vendido para cada mês._" |
+| **Prompt básico:** comece com uma **meta** | **Analise esta tabela no Excel.** |
+| **Prompt razoável:** adicione **contexto** | Adicionar **contexto** pode ajudar o Copilot a entender o objetivo da análise e ajustar a resposta de acordo. _"Estamos procurando os produtos mais vendidos de maio a agosto para vendas de chai artesanal ou vendas de chai pronto para beber."_ |
+| **Prompt ainda melhor:** especifique as **fontes** | Adicionar **fontes** pode ajudar o Copilot a restringir o escopo, dizendo-lhe para usar informações ou intervalos específicos. _"... de maio a agosto para vendas de chai artesanal ou vendas de chai pronto para beber..."_ |
+| **O prompt ideal:** defina **expectativas** claras | Por fim, adicionar **Expectativas** pode ajudar o Copilot a entender como formatar o resumo e qual nível de detalhe é necessário. _"Resuma o produto mais vendido para cada mês."_ |
 
 > [!NOTE]
 > **Prompt criado**:
 >
-> _Analise esta tabela do Excel. Estamos procurando os produtos mais vendidos de maio a agosto para informar nossa estratégia de marketing para o próximo ano. Destaque o produto mais vendido mês após mês._
-
-[![Captura de tela dos resultados do prompt criado usando o Copilot no Excel.](../media/copilot-results-excel.png)](../media/copilot-results-excel.png#lightbox)
+> _Analise esta tabela no Excel. Estamos procurando os produtos mais vendidos de maio a agosto para vendas de chai artesanal ou vendas de chai pré-fabricadas. Resuma o produto mais vendido para cada mês._
 
 Esse prompt fornece ao Copilot tudo o que ele precisa para encontrar uma boa resposta, incluindo o **Objetivo**, o **Contexto**, a **Fonte** e as **Expectativas**.
 
@@ -57,4 +74,4 @@ Experimente o prompt final criado e outros com sua própria tabela do Excel. Aqu
 - Mostre o total de vendas de publicidade para cada região no ano passado.
 
 > [!IMPORTANT]
-> Esse recurso está disponível para clientes com uma licença do Copilot para Microsoft 365 ou do Copilot Pro. Para saber mais sobre tabelas do Excel e como criá-las, consulte [Criar uma tabela no Excel](https://support.microsoft.com/office/bf0ce08b-d012-42ec-8ecf-a2259c9faf3f). 
+> Esse recurso está disponível para clientes com uma licença do Microsoft 365 Copilot ou do Copilot Pro. Para saber mais sobre tabelas do Excel e como criá-las, consulte [Criar uma tabela no Excel](https://support.microsoft.com/office/bf0ce08b-d012-42ec-8ecf-a2259c9faf3f).
