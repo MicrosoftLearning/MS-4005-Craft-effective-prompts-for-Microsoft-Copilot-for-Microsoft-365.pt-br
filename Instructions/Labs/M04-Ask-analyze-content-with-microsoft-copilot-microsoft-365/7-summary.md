@@ -1,3 +1,4 @@
+# Resumo
 
 Neste módulo, você aprendeu a criar prompts contextuais e eficazes no Microsoft 365 Copilot para solicitar informações em documentos e arquivos da Microsoft. Você também aprendeu sobre o Microsoft 365 Copilot e suas várias funcionalidades em diferentes aplicativos da Microsoft. Ele gera insights e sugestões com base em seus arquivos, documentos, bate-papos e reuniões. Este módulo equipou você com o conhecimento e as técnicas para criar prompts que produzem resultados precisos e úteis com o Microsoft 365 Copilot.
 

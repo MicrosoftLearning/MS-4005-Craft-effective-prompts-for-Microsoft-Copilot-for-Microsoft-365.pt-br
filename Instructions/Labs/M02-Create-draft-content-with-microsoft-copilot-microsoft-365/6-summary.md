@@ -1,4 +1,6 @@
-Neste módulo, você aprendeu a usar o Copilot em vários aplicativos da Microsoft, como Word, PowerPoint, Outlook e Microsoft 365 Chat. No Word, você pode abrir o painel Copilot por meio da guia Página Inicial da faixa de opções ou começar a escrever diretamente no documento para gerar novo conteúdo. No PowerPoint, o Copilot auxilia na criação, design e formatação de slides digitando o conteúdo da sua apresentação. No Outlook, o Copilot ajuda no gerenciamento da caixa de entrada e na escrita de emails, redigindo-os rapidamente e resumindo longos tópicos de emails. Por fim, o Microsoft 365 Business Chat se integra aos seus dados de trabalho e aplicativos para aprimorar a criatividade, a produtividade e o desenvolvimento de habilidades.
+# Resumo
+
+Neste módulo, você aprendeu a usar o Copilot em vários aplicativos da Microsoft, como Word, PowerPoint, Outlook e Microsoft 365 Chat. No Word, você pode abrir o painel Copilot por meio da guia Página Inicial da faixa de opções ou começar a escrever diretamente no documento para gerar novo conteúdo. No PowerPoint, o Copilot auxilia na criação, design e formatação de slides digitando o conteúdo da sua apresentação. No Outlook, o Copilot ajuda no gerenciamento da caixa de entrada e na escrita de emails, redigindo-os rapidamente e resumindo longos tópicos de emails. Por fim, o Microsoft 365 Copilot Chat se integra aos seus dados de trabalho e aplicativos para aprimorar a criatividade, a produtividade e o desenvolvimento de habilidades.
 
 As principais conclusões desse módulo são:
 
@@ -18,4 +20,4 @@ As principais conclusões desse módulo são:
 
 - [Elaborar uma mensagem de email com o Copilot no Outlook](https://support.microsoft.com/office/draft-an-email-message-with-copilot-in-outlook-3eb1d053-89b8-491c-8a6e-746015238d9b)
 
-- [Usar o Microsoft 365 Business Chat em Microsoft365.com/Copilot](https://support.microsoft.com/topic/use-microsoft-365-chat-at-microsoft365-com-or-in-the-microsoft-365-office-app-4a2538f9-962f-4c7c-a368-f6006bc13d6f)
+- [Usar o Microsoft 365 Copilot Chat em Microsoft365.com/Copilot](https://support.microsoft.com/topic/use-microsoft-365-chat-at-microsoft365-com-or-in-the-microsoft-365-office-app-4a2538f9-962f-4c7c-a368-f6006bc13d6f)

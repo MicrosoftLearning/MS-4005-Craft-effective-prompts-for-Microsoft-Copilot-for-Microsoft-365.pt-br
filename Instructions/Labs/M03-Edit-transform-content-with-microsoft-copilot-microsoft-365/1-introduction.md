@@ -1,6 +1,8 @@
+# Introdução
+
 Neste módulo, você aprenderá a criar prompts contextuais e eficazes no Microsoft 365 Copilot para **transformar** documentos, dados e texto em aplicativos do Microsoft 365. Se quiser aprimorar suas habilidades de criação de prompts para o Copilot, este módulo equipará você com o conhecimento e as técnicas para criar prompts que produzirão resultados precisos e úteis com o Microsoft 365 Copilot.
 
-O foco deste módulo é **editar**, **transformar** e **reescrever** informações usando o Copilot em aplicativos do Microsoft 365, como **Word**, **PowerPoint**, **Excel**, **Outlook** e outros. Você aprende como usar esses recursos básicos de transformação usando IA, mas também como criar um prompt eficiente que contenha todos os elementos para gerar os resultados desejados.
+O foco deste módulo é **editar**, **transformar** e **reescrever** informações usando o Copilot em diferentes Microsoft 365 Apps, como **Word**, **PowerPoint**, **Excel**, **Outlook**, entre outros. Você aprende como usar esses recursos básicos de transformação usando IA, mas também como criar um prompt eficiente que contenha todos os elementos para gerar os resultados desejados.
 
 > [!IMPORTANT]
 > Muitos dos recursos do Copilot abordados neste módulo estão disponíveis apenas para clientes com uma licença do Microsoft 365 Copilot ou do Copilot Pro. No entanto, as estratégias empregadas para criar melhores prompts podem ser usadas com qualquer LLM (grande modelo de linguagem grande) baseado em bate-papo.
